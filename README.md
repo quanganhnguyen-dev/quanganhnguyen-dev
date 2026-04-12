@@ -64,7 +64,7 @@ I work on distributed systems and backend engineering, with a strong preference 
 <div align="center">
 
 <a href="https://github.com/quanganhnguyen-dev">
-  <img height="168" src="https://raw.githubusercontent.com/quanganhnguyen-dev/quanganhnguyen/main/profile/stats.svg" alt="GitHub stats" />
+  <img height="168" src="https://raw.githubusercontent.com/quanganhnguyen-dev/quanganhnguyen-dev/main/profile/stats.svg" alt="GitHub stats" />
 </a>
 <a href="https://github.com/quanganhnguyen?tab=repositories">
   <img height="168" src="https://raw.githubusercontent.com/quanganhnguyen-dev/quanganhnguyen-dev/main/profile/top-langs.svg" alt="Top languages" />
